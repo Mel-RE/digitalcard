@@ -136,21 +136,21 @@ body {
   }
 
   .cargo-texto {
-    font-size: 1.2rem;
+    font-size: 1rem;
     margin-top: -29px;
   }
 
   .nombre {
     margin-top: 1rem;
-    font-size: 1.4rem;
+    font-size: 1rem;
   }
 
   .profesion {
-    font-size: 1.3rem;
+    font-size: 1rem;
   }
 
   .descripcion {
-    font-size: 0.8rem;
+    font-size: 0.5rem;
   }
 
 
