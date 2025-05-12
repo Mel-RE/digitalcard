@@ -48,6 +48,14 @@ body {
   margin-bottom: 1rem;
 }
 
+.cargo-texto {
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.3rem;
+  margin-top: 0px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
 .derecha {
   width: 65%;
   padding-left: 2rem;
