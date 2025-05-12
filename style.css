@@ -142,11 +142,15 @@ body {
 
   .nombre {
     margin-top: 1rem;
-    font-size: 1.5rem;
+    font-size: 1.4rem;
   }
 
   .profesion {
-    font-size: 1.4rem;
+    font-size: 1.3rem;
+  }
+
+  .descripcion {
+    font-size: 0.8rem;
   }
 
 
